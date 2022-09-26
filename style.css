@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+h2{
+    color: red;
+    font-family: 'Montserrat', sans-serif;
+}
+div.menu{
+    display: flex;
+    margin: 10px;
+}
