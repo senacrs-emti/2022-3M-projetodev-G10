@@ -1,14 +1,16 @@
 body, html {
     margin: 0;
     padding: 0;
+    background-color: #333;
+    color: #ddd;
+    font-family: 'Montserrat', sans-serif;
+}
+.player-musica{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #333;
-    color: #ddd;
-    font-family: 'Montserrat', sans-serif;
 }
 
 img {
