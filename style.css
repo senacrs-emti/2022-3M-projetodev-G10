@@ -4,8 +4,8 @@ body{
 h2{
     color: red;
     font-family: 'Montserrat', sans-serif;
+    margin-left: 50px;
 }
 div.menu{
     display: flex;
-    margin: 10px;
 }
