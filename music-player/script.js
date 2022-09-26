@@ -1,6 +1,6 @@
 let musicas = [
     {titulo:'Feel Invincible', artista:'Skillet', src:'musicas/skillet-feel-invincible.mp3', img:'imagens/skillet.jpg'},
-    {titulo:'Paint it, Black', artista:'Rolling Stones', src:'musicas/rStones - Paint It, Black.mp3', img:'imagens/rstones.jpg'},
+    {titulo:'Paint it, Black', artista:'The Rolling Stones', src:'musicas/rStones - Paint It, Black.mp3', img:'imagens/rstones.jpg'},
     {titulo:'Rock and Roll All Nite', artista:'Kiss • Greatest Kiss • 1996', src:'musicas/Kiss - Rock And Roll All Nite.mp3', img:'imagens/kiss.jpg'}
 ];
 
