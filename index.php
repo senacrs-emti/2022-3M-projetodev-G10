@@ -13,7 +13,8 @@
 </header>
 
 <img src="https://a-static.mlcdn.com.br/800x560/bateria-infantil-banco-baqueta-rock-star-prato-chimbal-com-baquetas-iniciante-instrumento-brinquedo-toy-brow/mundodocomercio/15831158100/bb6658d6d771c13809518f7d89bdd198.jpg" alt="Minha bateria!" title="Batera braba!!!" width="300px" height="300px" vspace="50px" hspace=" 40px" align="left"/>
-<h1 style="color: #ddd">Hello, Mother Fucker!</h1>
+<h1 style="color: white; margin-top:50px; font-size: 25px; height:200px; display: flex;";>Olá, sejam bem-vindos ao nosso site. Aqui você poderá desfrutar das nossas baterias "eletrônicas", já que você é pobre e não ter dinheiro para comprar uma :P. </h1>
+
 <script>
   function typeWriter(elemento) {
     const textoArray = elemento.innerHTML.split('');
