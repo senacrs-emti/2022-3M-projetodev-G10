@@ -46,11 +46,15 @@
         </div>
         <audio src="musicas/skillet-feel-invincible.mp3"></audio>
 </div>
-    
+
     <script src="script.js"></script>
 
     <!--
         Desenvolvido por Riann Rodrigues Batista
     -->
+<?php 
+  include_once "../includes/footer.php";
+?>
+
 </body>
 </html>
