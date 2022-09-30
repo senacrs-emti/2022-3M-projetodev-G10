@@ -1,6 +1,5 @@
 body{
     background-color: #333;
-    height: 800px;
 }
 h2{
     color: red;
@@ -9,4 +8,10 @@ h2{
 }
 div.menu{
     display: flex;
+}
+.rodape{
+    position: flex;
+    bottom: 0;
+    left: 0;
+    width: 100%;
 }
