@@ -10,9 +10,8 @@ div.menu{
     display: flex;
 }
 .rodape{
-    position: flex;
-    bottom: 0;
-    left: 0;
+    position: absolute;
+    bottom: 0px;
     width: 100%;
 }
 p{

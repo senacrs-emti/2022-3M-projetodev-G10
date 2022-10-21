@@ -76,6 +76,7 @@ li.mobile_menu__item:hover ul {
 
 </style>
 </noscript>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
 
 <script>
 									(function() {
@@ -168,5 +169,12 @@ Bateria virtual </h1>
 </div>
 </div>
 </div>
+<footer class="bg-light text-center text-lg-start">
+  <div class="text-center p-5" style="background-color: rgba(0, 0, 0, 0.2); color:#333;">
+    © 2020 Copyright:
+    <a class="text-dark" href="https://pbs.twimg.com/ext_tw_video_thumb/1473664236572323840/pu/img/7jV-_-2dzIdxij-w.jpg">Luis e Riann</a>
+</div>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.min.js" integrity="sha384-7VPbUDkoPSGFnVtYi0QogXtr74QeVeeIs99Qfg5YCF+TidwNdjvaKZX19NZ/e6oz" crossorigin="anonymous"></script>
 </body>
 </html>
