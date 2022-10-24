@@ -1,16 +1,11 @@
 <!DOCTYPE html>
 <html lang="pt" class="no-js">
 <head>
-<meta name="viewport" content="width=device-width,user-scalable=1,initial-scale=1.0,minimum-scale=1.0" />
-<meta property="og:url" content="https://www.musicca.com/pt/bateria" />
-<meta property="og:title" content="Bateria virtual – Toca bateria online | Musicca" />
-<meta property="og:site_name" content="Musicca" />
 <meta property="og:image" content="https://www.musicca.com/images/facebook-image.png" />
 <link rel="canonical" href="https://www.musicca.com/pt/bateria" />
 <base href="https://www.musicca.com/pt/bateria" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <link href="/modules/mod_ads/css/style.css?v=1664808718" rel="stylesheet" type="text/css" />
-<script type="application/json" class="joomla-script-options new">{"joomla.jtext":{"ERROR":"Erro"},"mod_ads":{"url":"https:\/\/cdn.fuseplatform.net\/publift\/tags\/2\/2548\/fuse.js"},"csrf.token":"028c12ca51148cfd168e5a6d65dca16a","system.paths":{"root":"","base":""}}</script>
 <script src="/media/jui/js/jquery.min.js?d1099a688fe8068dee368f9cd86a2d34"></script>
 <script src="/modules/mod_ads/js/width_test.js?v=1664808718"></script>
 <script src="/media/system/js/core.js?d1099a688fe8068dee368f9cd86a2d34"></script>
