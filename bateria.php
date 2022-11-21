@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt" class="no-js">
 <head>
-<meta property="og:image" content="https://www.musicca.com/images/facebook-image.png" />
-<link rel="canonical" href="https://www.musicca.com/pt/bateria" />
 <base href="https://www.musicca.com/pt/bateria" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <link href="/modules/mod_ads/css/style.css?v=1664808718" rel="stylesheet" type="text/css" />
