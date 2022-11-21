@@ -21,6 +21,16 @@ jQuery(window).on('load',  function() {
 <script defer src="/scripts/tooltip/opentip-native-excanvas.min.js"></script>
 <script defer src="/templates/musicca/js/app.min.js?v=1664808718"></script>
 
+<header>
+    <nav class="navbar navbar-expand-lg bg-light">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="http://localhost:8080/2022-3M-projetodev-G10/">Voltar para a home</a>
+            </div>
+          </div>
+        </div>
+      </nav>
+</header>
+
 <style>
 .toggle-menu-mobile span > span{
 	position: absolute;
